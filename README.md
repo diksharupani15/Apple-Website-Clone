@@ -1,1 +1,1 @@
-# Minor-Project-1
+# Apple Website Clone
